@@ -10,7 +10,7 @@ Sean McElwain @ https://github.com/sean-mcelwain
 Sara Kanga @ https://github.com/S0519
 
 
-# Read ME
+# Readme
 With the increase in international travel and business, it is important for one to understand the monetary differences based on country's exchange rates. This application assists users in understanding how much their currency is worth in
 a foreign currency, while providing a history of the particular currency and any related news in regard to its exchange.
 
@@ -23,9 +23,12 @@ I WANT TO be presented with relevant news articles relating to selected currency
 SO THAT I can be updated on my currency interests 
 
 
-# URL: https://amaresch52.github.io/Project-1-Currency-Exchange/
+# URL: 
+https://amaresch52.github.io/Project-1-Currency-Exchange/
 
-# PowerPoint: https://github.com/amaresch52/Project-1-Currency-Exchange/blob/develop/Currency%20Exchange%20Tool.pdf
+
+# PowerPoint: 
+https://github.com/amaresch52/Project-1-Currency-Exchange/blob/develop/Currency%20Exchange%20Tool.pdf
 
 
 
