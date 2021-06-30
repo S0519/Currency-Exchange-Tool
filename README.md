@@ -1,7 +1,7 @@
 # Project 1 - Currency Exchange Tool 
 
 
-# Group 4 
+# Group "Bierre et foot"
 
 Adam Maresh @ https://github.com/amaresch52
 
