@@ -1,4 +1,4 @@
-# Project 1 - Currency Exchange Tool 
+# Currency Exchange Tool 
 
 
 # Group "Bierre et foot"
